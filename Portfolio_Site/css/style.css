@@ -1,0 +1,55 @@
+
+#main-header {
+	background-color: lightgrey;
+	width: 100%;
+	max-width: 100%;
+}
+
+.logo {
+	margin-right: auto;
+	max-height: 100px;
+	max-width: 100px;
+	padding: 15px 0;
+}
+
+#main-header h1,
+h4 {
+	text-align: right;
+}
+
+/*#main-img {
+	position: center;
+	margin: 0 auto;
+	padding: 10px 20px;
+}*/
+
+.work-header {
+	text-align: center;
+	font-weight: bold;
+	padding: 10px auto;
+}
+
+.caption {
+	color:red;
+}
+
+.caption:hover {
+	color:blue;
+}
+
+
+@media ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
