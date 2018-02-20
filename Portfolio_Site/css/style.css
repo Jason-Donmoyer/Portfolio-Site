@@ -34,7 +34,7 @@ WORK HEADER
 	font-family: 'Alegreya', serif;
 	text-align: center;
 	font-weight: bold;
-	padding: 10px auto;
+	padding: 20px 10px;
 }
 
 /***********************
@@ -49,6 +49,7 @@ CAPTION
 	color:blue;
 }
 
+
 /***********************
 FOOTER
 ************************/
@@ -62,10 +63,11 @@ FOOTER
 }
 
 .social-icon {
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
 	margin: 0 5px;
 }
+
 
 
 
