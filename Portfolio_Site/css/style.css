@@ -1,4 +1,8 @@
 
+/***********************
+MAIN HEADER
+************************/
+
 #main-header {
 	background-color: lightgrey;
 	width: 100%;
@@ -12,22 +16,30 @@
 	padding: 15px 0;
 }
 
+#main-header h1 {
+	font-size: 2.5em;
+}
+
 #main-header h1,
 h4 {
+	font-family: 'Alegreya', serif;
 	text-align: right;
 }
 
-/*#main-img {
-	position: center;
-	margin: 0 auto;
-	padding: 10px 20px;
-}*/
+/***********************
+WORK HEADER
+************************/
 
 .work-header {
+	font-family: 'Alegreya', serif;
 	text-align: center;
 	font-weight: bold;
 	padding: 10px auto;
 }
+
+/***********************
+CAPTION
+************************/
 
 .caption {
 	color:red;
@@ -37,8 +49,25 @@ h4 {
 	color:blue;
 }
 
+/***********************
+FOOTER
+************************/
 
-@media ()
+#footer {
+	font-size: 0.75em;
+	clear: both;
+	text-align: center;
+	padding-top: 50px;
+	color: #ccc;
+}
+
+.social-icon {
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+
+
 
 
 
